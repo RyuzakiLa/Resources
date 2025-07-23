@@ -106,6 +106,7 @@ This repo holds multiple resources links which is technical to use in day to day
 
 - [How to read curl (ec.haxx)](https://ec.haxx.se/how-to-read.htmlls)
 - [Curl to bypass WAF](https://freedium.cfd/https://medium.com/@ibtissamhammadi1/how-to-hack-any-waf-with-just-one-curl-command-7f91ffa9c942?__cf_chl_rt_tk=Cr3vraYdRynf0IzTULaX1WkB5ErHkkuJOtTIoPP7lkE-1753247527-1.0.1.1-7IOrA5uPAdzllk1zVtslRIfTizXHn1hWKKmyu59VVGw)
+- [Bypass 403](https://freedium.cfd/https://medium.com/bugbountywriteup/forbidden-but-not-forgotten-how-an-http-403-made-me-a-superadmin-6f769c4a9952?__cf_chl_rt_tk=naWvz1KUfMWZciOfyKSt0wt8kKXN07Vm8Ari5o7K_uo-1753248370-1.0.1.1-hzEM7tI12EYxZ1MAPhjdRpbJwp965.K9.ZSL9F2I6mU)
 
 ---
 
@@ -114,5 +115,9 @@ This repo holds multiple resources links which is technical to use in day to day
 - [WhatsApp OSINT tools for investigators](https://osintteam.blog/whatsapp-osint-tools-for-osint-investigators-c9050048193b)
 
 ---
+
+## Have a look
+
+-[BB1](https://freedium.cfd/https://medium.com/bugbountywriteup/i-followed-this-recon-checklist-and-found-12-bugs-in-1-week-1e546a0d8b2e?__cf_chl_rt_tk=JsSV_OxXupLOu5u8rLTAeE_LTcA08gNM2kbv7BXfoH8-1753248808-1.0.1.1-8sWXnQsd2TmCIyz1UoYXNdNV.KxHDrsmhm8.BCab6Rc)
 
 
