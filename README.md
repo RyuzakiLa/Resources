@@ -105,6 +105,7 @@ This repo holds multiple resources links which is technical to use in day to day
 ## Curl
 
 - [How to read curl (ec.haxx)](https://ec.haxx.se/how-to-read.htmlls)
+- [Curl to bypass WAF](https://freedium.cfd/https://medium.com/@ibtissamhammadi1/how-to-hack-any-waf-with-just-one-curl-command-7f91ffa9c942?__cf_chl_rt_tk=Cr3vraYdRynf0IzTULaX1WkB5ErHkkuJOtTIoPP7lkE-1753247527-1.0.1.1-7IOrA5uPAdzllk1zVtslRIfTizXHn1hWKKmyu59VVGw)
 
 ---
 
