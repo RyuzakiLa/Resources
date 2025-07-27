@@ -127,4 +127,8 @@ This repo holds multiple resources links which is technical to use in day to day
 
 -[BB1](https://freedium.cfd/https://medium.com/bugbountywriteup/i-followed-this-recon-checklist-and-found-12-bugs-in-1-week-1e546a0d8b2e?__cf_chl_rt_tk=JsSV_OxXupLOu5u8rLTAeE_LTcA08gNM2kbv7BXfoH8-1753248808-1.0.1.1-8sWXnQsd2TmCIyz1UoYXNdNV.KxHDrsmhm8.BCab6Rc)
 
+## Hardware
+
+- [BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
+
 
