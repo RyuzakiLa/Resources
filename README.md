@@ -131,4 +131,9 @@ This repo holds multiple resources links which is technical to use in day to day
 
 - [BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 
+---
+## Blogs for Bug Bounty
+
+- [Subdomain bypass](https://freedium.cfd//https://infosecwriteups.com/access-denied-subdomain-bypass-178c2717fad9)
+
 
